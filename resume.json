@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "James Middleton",
+    "label": "Software Engineer",
+    "image": "./profile-picture.jpg",
+    "email": "james@midz.dev",
+    "phone": "+44 7512 253451",
+    "website": "https://midz.dev",
+    "summary": "I'm a full stack web developer with a passion for efficient development and intuitive UX. I thrive in learning from and utilising new technologies to boost my productivity. Being largely self-taught and starting at a young age, commercial experience has helped refine my ability to produce high-quality, production-ready code.",
+    "location": {
+      "address": "42 Draycott Road",
+      "postalCode": "DE72 3DA",
+      "city": "Breaston",
+      "countryCode": "UK",
+      "region": "Derbyshire"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "midzdotdev",
+        "url": "https://twitter.com/midzdotdev"
+      },
+      {
+        "network": "GitHub",
+        "username": "midzdotdev",
+        "url": "https://github.com/midzdotdev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "midzdotdev",
+        "url": "https://linkedin.com/in/midzdotdev"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "IMG Arena",
+      "position": "Full Stack Developer",
+      "website": "https://imgarena.com",
+      "startDate": "2021-09-01",
+      "endDate": null,
+      "summary": "IMG Arena is a market leader in sports data and media production. My work focusses around maintaining and expanding the Event Centres, embedded in sportsbook websites like bet365 to provide real-time insight into live tournaments. Automated testing using Cypress and React Testing Library is a critical part of CI to ensure high-quality and reliability.",
+      "highlights": [
+        "Initiated collaboration with QA to refactor Cypress tests and improve their readibility",
+        "Developed a green-field project for Sales to demo the features of Event Centres",
+        "Mentoring a QA colleague to learn React",
+        "Being mentoring in Haskell to grow my functional programming skills",
+        "Attended workshop to learn GLSL (shading language) fundamentals"
+      ]
+    },
+    {
+      "name": "Scrolller",
+      "position": "Freelance Full Stack Developer",
+      "website": "https://scrolller.com",
+      "startDate": "2020-05-01",
+      "endDate": "2021-02-01",
+      "summary": "Contracted as a freelancer to continue development of Reddit media browser. Collaborated in a start-up environment to boost growth and user experience.",
+      "highlights": [
+        "Introduced TailwindCSS utility-based styles to lift DX",
+        "Deployed and integrated self-hosted Matomo analytics to provide insight into user's experience"
+      ]
+    },
+    {
+      "name": "Community Brands UK",
+      "position": "Full Stack and Data Engineer",
+      "website": "https://communitybrands.uk",
+      "startDate": "2020-09-01",
+      "endDate": "2021-07-01",
+      "summary": "Initially assigned as a backend engineer to continue developing integrations with various school information management systems. Later on I developed a server health dashboard to view issues reported by our data exchange backend, Xporter.",
+      "highlights": [
+        "Created a full-stack server health dashboard using React and C#.NET",
+        "Used SQL scripts to further develop third-party school MIS integrations"
+      ]
+    },
+    {
+      "name": "ProVQ",
+      "position": "Freelance Full Stack Engineer",
+      "website": "https://provq.com",
+      "startDate": "2019-01-01",
+      "endDate": "2019-05-01",
+      "summary": "From conception to production, developed and product managed an apprentice screener system. Liased with key stakeholders and demoed at pre-defined milestones. The tech stack included VueJS, BootstrapVue, FeathersJS, NodeJS and MongoDB.",
+      "highlights": [
+        "Successfully digitised a critical business process, originally paper-based",
+        "Developed incrementally to demo progress at project milestones"
+      ]
+    },
+    {
+      "name": "a.d.s. computers",
+      "position": "Service Technican",
+      "website": "https://adscomputers.co.uk",
+      "startDate": "2018-06-01",
+      "endDate": "2019-10-01",
+      "summary": "Constructed workstations tailored to meet customer needs. Provided technical support both in-person and remotely to individuals and SMEs.",
+      "highlights": [
+        "Built a C# script to automatically inject company contact information into Windows OEM"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Silver Surfers",
+      "position": "Volunteer",
+      "website": "https://saintmichaelsbramcote.com/activities/socialoutreach/silver-surfers",
+      "startDate": "2018-06-20",
+      "endDate": "2018-11-12",
+      "summary": "Volunteered at a local church mentoring elders to navigate themselves in the digital era."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Loughborough University",
+      "website": "https://lboro.ac.uk",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2016-10-01",
+      "endDate": "2020-07-01",
+      "summary": "A 3 year bachelors and a Year-in-Enterprise for which I was awarded a Diploma in Professional Studies for ProVQ's project. Mentored numerous peers for programming in Java, PHP and JavaScript. Developed a JS script to create an iCal calendar for any student's timetable. Self-taught VueJS and TypeScript fundamentals."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Styled Components",
+        "Cypress"
+      ]
+    },
+    {
+      "name": "Backend",
+      "level": "Advanced",
+      "keywords": ["Node.js", "SQL", "Redis", "Next.js"]
+    },
+    {
+      "name": "DevOps",
+      "level": "Intermediate",
+      "keywords": ["AWS", "GitHub Actions", "K8S"]
+    }
+  ],
+  "interests": [
+    { "name": "Singing" },
+    { "name": "Cooking" },
+    { "name": "Cycling" },
+    { "name": "Mindfulness" },
+    { "name": "Adrenaline Sports" }
+  ]
+}
